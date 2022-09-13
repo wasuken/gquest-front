@@ -1,0 +1,5 @@
+.nav-item {
+  padding-left: 2px;
+  display: flex;
+  align-items: center;
+}

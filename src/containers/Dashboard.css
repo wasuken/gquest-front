@@ -1,0 +1,36 @@
+.questboard{
+  position: relative;
+}
+
+.questboard .img{
+  width: 1000px;
+  height: 60vh;
+}
+
+.questboard .quest-list{
+  font-family: fantasy;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  display:flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.questboard .quest{
+  position: relative;
+  font-size: smaller;
+}
+
+.questboard .paper{
+  width: 150px;
+  height: 150px;
+}
+
+.questboard .contents{
+  position: absolute;
+  left: 5px;
+  top: 5px;
+}
+
+
